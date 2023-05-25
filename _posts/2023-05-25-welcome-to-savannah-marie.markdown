@@ -26,25 +26,12 @@ If so, you should carry on reading... or looking as we can't think what to type 
 ![Chorizo Hash](/img/Brunch1.jpg.webp)
 ![Acai bowl](/img/Brunch2.jpg)
 
+## Lunch
 
-You can add images using the below markdown syntax:
+![Chorizo Hash](/img/Lunch1.jpeg)
+![Acai bowl](/img/Lunch2.jpg)
 
-```
-![Image alt text](/img/path.jpg)
-```
+## Dinner
 
-Jekyll also offers powerful support for code snippets:
-
-```ruby
-def print_hi(name)
-puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-```
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]: https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+![Steak with Grilled tomatoes and asparagus](/img/Dinner1.jpg)
+![Pasta with prawns](/img/Dinner2.jpg)

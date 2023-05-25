@@ -28,7 +28,7 @@ livereload: true
 permalink: pretty
 
 # Build settings
-theme: mere-blog-theme
+theme: chrisrhymes/mere-blog-theme
 plugins:
   - jekyll-feed
 
