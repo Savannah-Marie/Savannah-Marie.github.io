@@ -26,11 +26,6 @@ If so, you should carry on reading... or looking as we can't think what to type 
 ![Chorizo Hash](/img/Brunch1.jpg.webp)
 ![Acai bowl](/img/Brunch2.jpg)
 
-## Lunch
-
-## Dinner
-
-## Dessert
 
 You can add images using the below markdown syntax:
 
