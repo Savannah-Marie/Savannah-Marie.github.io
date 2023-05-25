@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Welcome to Jekyll!"
-date: 2023-05-03 10:50:34 +0100
-categories: jekyll update
+title: "Alright matey!"
+date: 2023-05-25 11:10:34 +0100
+categories: Our updates
 image: /img/home.jpg
 author: Savannah-Marie
 intro: This is the introduction text for this post. It appears large and bold at the top of the post
@@ -10,13 +10,27 @@ intro_image: /img/home.jpg
 intro_image_ratio: is-16by9
 ---
 
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+# Do you like food?
 
-Jekyll requires blog post files to be named according to the following format:
+If so, you should carry on reading... or looking as we can't think what to type so we're adding images instead. 
 
-`YEAR-MONTH-DAY-title.MARKUP`
+**Enjoy!**
 
-Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit numbers, and `MARKUP` is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+## Breakfast 
+
+![Poached Eggs](/img/Break1.jpg)
+![French Toast](/img/Break2.jpg)
+
+## Brunch
+
+![Chorizo Hash](/img/Brunch1.jpg.webp)
+![Acai bowl](/img/Brunch2.jpg)
+
+## Lunch
+
+## Dinner
+
+## Dessert
 
 You can add images using the below markdown syntax:
 
